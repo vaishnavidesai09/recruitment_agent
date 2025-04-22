@@ -1,0 +1,41 @@
+Job Title: Data Science Intern (Paid)
+
+Company: WebBoost Solutions by UM
+Location: Remote
+Duration: 3 months
+Opportunity: Full-time based on performance, with a Certificate of Internship
+About WebBoost Solutions by UM
+
+WebBoost Solutions by UM provides aspiring professionals with hands-on experience in data science, offering real-world projects to develop and refine their analytical and machine learning skills for a successful career.
+Responsibilities
+
+✅ Collect, preprocess, and analyze large datasets.
+✅ Develop predictive models and machine learning algorithms.
+✅ Perform exploratory data analysis (EDA) to extract meaningful insights.
+✅ Create data visualizations and dashboards for effective communication of findings.
+✅ Collaborate with cross-functional teams to deliver data-driven solutions.
+Requirements
+
+🎓 Enrolled in or graduate of a program in Data Science, Computer Science, Statistics, or a related field.
+🐍 Proficiency in Python or R for data analysis and modeling.
+🧠 Knowledge of machine learning libraries such as scikit-learn, TensorFlow, or PyTorch (preferred).
+📊 Familiarity with data visualization tools (Tableau, Power BI, or Matplotlib).
+🧐 Strong analytical and problem-solving skills.
+🗣 Excellent communication and teamwork abilities.
+Stipend & Benefits
+
+💰 Stipend: ₹7,500 - ₹15,000 (Performance-Based).
+✔ Hands-on experience in data science projects.
+✔ Certificate of Internship & Letter of Recommendation.
+✔ Opportunity to build a strong portfolio of data science models and applications.
+✔ Potential for full-time employment based on performance.
+How to Apply
+
+📩 Submit your resume and a cover letter with the subject line "Data Science Intern Application."
+
+📅 Deadline: 22nd April 2025
+
+Equal Opportunity
+
+WebBoost Solutions by UM is committed to fostering an inclusive and diverse environment and encourages applications from all backgrounds.
+Let me know if you need any modifications! 🚀
