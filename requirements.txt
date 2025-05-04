@@ -10,4 +10,4 @@ pandas
 python-dotenv
 matplotlib
 langchain-huggingface
-
+torch
