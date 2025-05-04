@@ -1,13 +1,18 @@
 
 groq
-streamlit
-langchain
-langchain-groq
-langchain-community
-pypdf2
-faiss-cpu
-pandas
-python-dotenv
-matplotlib
+
+streamlit==1.31.0
+langchain==0.3.23  
+langchain-groq==0.3.2  
+langchain-community>=0.0.17
+pypdf2==3.0.1
+faiss-cpu==1.7.4
+pandas==2.1.4
+python-dotenv==1.0.0
+matplotlib==3.8.2
 langchain-huggingface
-torch
+torch==2.0.1
+transformers>=4.41.0
+tokenizers>=0.19.1
+sentence-transformers>=4.1.0
+Python 3.11.4
